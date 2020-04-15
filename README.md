@@ -5,7 +5,7 @@ A project written in Python using the dataset [Life Expectancy in WHO](https://w
 )
 
 ## Features:
-* Choropleth Map to Visualization of Average Life Expectancies for most Coutries to reveal geographic trends of Life Expectancy and hence, Development levels.
+* Choropleth Map for Visualization of Average Life Expectancies for most Coutries to reveal geographic trends of Life Expectancy and hence, Development levels.
 * Line Plot to visuaize trends of Life Expectancy in any country the user enters over time
 * Multi Variate Linear Regression Model to predict life expectancy using top factors uncovered using various statistical tools such as different plots, correlation coeficients and heatmaps
 
